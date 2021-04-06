@@ -33,3 +33,7 @@
 ### Short video
 
 [![Watch the video](https://img.youtube.com/vi/P_-bDrTGCzA/maxresdefault.jpg)](https://youtu.be/P_-bDrTGCzA&vq=hd1080)
+
+[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
+
+<iframe  title="YouTube video player" width="480" height="390" src="https://youtu.be/P_-bDrTGCzA&vq=hd1080" frameborder="0" allowfullscreen></iframe>
