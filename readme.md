@@ -32,5 +32,5 @@
 
 ### Watch the video.
 
-![Watch the video on Youtube](https://youtu.be/P_-bDrTGCzA&vq=hd1080)
+[Watch the video on Youtube](https://youtu.be/P_-bDrTGCzA&vq=hd1080)
 
