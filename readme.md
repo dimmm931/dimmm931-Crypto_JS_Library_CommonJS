@@ -30,7 +30,7 @@
 
 ![Screenshot](images/ScreenShots/5.png)
 
-### Watch the video
+### Watch the video.
 
-[!Watch the video](https://youtu.be/P_-bDrTGCzA&vq=hd1080)
+![Watch the video on Youtube](https://youtu.be/P_-bDrTGCzA&vq=hd1080)
 
